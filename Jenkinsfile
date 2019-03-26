@@ -1,5 +1,5 @@
 pipeline {
-    agent { docker { image 'maven:3.6.0' } }
+    agent { docker { image 'getgauge/gauge-centos' } }
     stages {
         stage('build') {
             steps {
