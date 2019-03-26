@@ -1,8 +1,8 @@
 [
-	"/usr/local/bin/gauge",
+	"gauge",
 	"run",
-	"--machine-readable",
-	"--hide-suggestion",
-	"--simple-console",
-	"/Users/subhasc/tmp/foo/specs/example.spec"
+	"--env",
+	"firefox",
+	"--dir=/Users/subhasc/tmp/foo",
+	"/Users/subhasc/tmp/foo/specs"
 ]

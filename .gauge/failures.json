@@ -1,11 +1,9 @@
 {
 	"Args": [
 		"run",
-		"--machine-readable",
-		"--hide-suggestion",
-		"--simple-console"
+		"--env",
+		"firefox",
+		"--dir=/Users/subhasc/tmp/foo"
 	],
-	"FailedItems": [
-		"specs/example.spec"
-	]
+	"FailedItems": []
 }

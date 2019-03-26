@@ -11,7 +11,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 public class StepImplementation {
     @Step("Go to Gauge Get Started Page")
     public void gotoGetStartedPage() throws InterruptedException {
-        WebElement getStartedButton = Driver.webDriver.findElement(By.xpath("//a[@href='/getting-started-guide/we-start']"));
+        WebElement getStartedButton = Driver.webDriver.findElement(By.xpath("//a[@href='getting-started-guide/we-start/']"));
         getStartedButton.click();
 
         Gauge.writeMessage("Page title is %s", Driver.webDriver.getTitle());
