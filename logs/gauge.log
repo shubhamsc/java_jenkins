@@ -961,3 +961,72 @@ Total time taken: 3.957s
 14:22:34.515 
 Total time taken: 7.413s
 14:22:34.516 Updates are available. Run `gauge update -c` for more info.
+14:30:31.105 Plugin java is already installed.
+14:30:31.106 Plugin html-report is already installed.
+14:30:32.216 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+14:30:32.217 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+14:30:32.222 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+14:30:32.222 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+14:30:32.222 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+14:30:32.222 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+14:30:32.889 Checking updates...
+14:30:37.086 # Getting Started with Gauge
+14:30:37.089 ## Get Started
+14:30:37.091 * Open the Gauge homepage
+
+14:30:39.145 * Go to Gauge Get Started Page
+14:30:40.431 * Ensure installation instructions are available
+14:30:41.023 Closing connection [127.0.0.1:55819] cause: read tcp 127.0.0.1:55816->127.0.0.1:55819: read: connection reset by peer
+14:30:41.108 Plugin [Html Report] with pid [6468] has exited
+14:30:41.136 Closing connection [127.0.0.1:55807] cause: EOF
+14:30:41.213 Specifications:	1 executed	1 passed	0 failed	0 skipped
+14:30:41.213 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+14:30:41.213 
+Total time taken: 8.171s
+14:30:41.213 Updates are available. Run `gauge update -c` for more info.
+14:58:09.998 Plugin java is already installed.
+14:58:10.000 Plugin html-report is already installed.
+14:58:11.129 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+14:58:11.130 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+14:58:11.135 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+14:58:11.135 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+14:58:11.135 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+14:58:11.135 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+14:58:11.974 Checking updates...
+14:58:16.230 # Getting Started with Gauge
+14:58:16.233 ## Get Started
+14:58:16.235 * Open the Gauge homepage
+
+14:58:17.904 * Go to Gauge Get Started Page
+14:58:19.232 * Ensure installation instructions are available
+14:58:19.843 Closing connection [127.0.0.1:56613] cause: read tcp 127.0.0.1:56610->127.0.0.1:56613: read: connection reset by peer
+14:58:19.911 Plugin [Html Report] with pid [15314] has exited
+14:58:19.933 Closing connection [127.0.0.1:56609] cause: EOF
+14:58:20.012 Specifications:	1 executed	1 passed	0 failed	0 skipped
+14:58:20.012 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+14:58:20.012 
+Total time taken: 8.107s
+14:58:20.013 Updates are available. Run `gauge update -c` for more info.
+15:12:07.041 Plugin java is already installed.
+15:12:07.042 Plugin html-report is already installed.
+15:12:08.212 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+15:12:08.212 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+15:12:08.217 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+15:12:08.217 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+15:12:08.218 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+15:12:08.218 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+15:12:08.855 Checking updates...
+15:12:13.636 # Getting Started with Gauge
+15:12:13.638 ## Get Started
+15:12:13.640 * Open the Gauge homepage
+
+15:12:15.553 * Go to Gauge Get Started Page
+15:12:16.913 * Ensure installation instructions are available
+15:12:17.645 Closing connection [127.0.0.1:57043] cause: read tcp 127.0.0.1:57040->127.0.0.1:57043: read: connection reset by peer
+15:12:17.726 Plugin [Html Report] with pid [16630] has exited
+15:12:17.763 Closing connection [127.0.0.1:57039] cause: EOF
+15:12:17.831 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:12:17.831 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+15:12:17.831 
+Total time taken: 8.81s
+15:12:17.832 Updates are available. Run `gauge update -c` for more info.
