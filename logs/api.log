@@ -1,0 +1,39 @@
+12:26:37.721 Watching directory: /Users/subhasc/tmp/foo/specs
+12:26:37.721 Initializing concepts cache with 0 concepts
+12:26:37.721 Found 1 files
+12:26:37.721 Initializing specs cache with 1 specs
+12:26:37.722 Adding specs from /Users/subhasc/tmp/foo/specs/example.spec
+12:26:37.722 Initializing steps cache with 1 steps
+12:26:37.722 Gauge daemon initialized and listening on port: 53134
+12:28:16.415 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+12:28:16.416 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+12:28:17.116 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+12:28:17.116 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+12:28:17.117 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+12:28:17.117 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+13:03:43.120 Watching directory: /Users/subhasc/tmp/foo/specs
+13:03:43.120 Found 1 files
+13:03:43.121 Initializing concepts cache with 0 concepts
+13:03:43.122 Initializing specs cache with 1 specs
+13:03:43.122 Adding specs from /Users/subhasc/tmp/foo/specs/example.spec
+13:03:43.122 Initializing steps cache with 1 steps
+13:03:43.122 Gauge daemon initialized and listening on port: 53632
+13:09:35.708 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+13:09:35.709 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+13:09:35.976 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+13:09:35.976 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+13:09:35.977 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+13:09:35.978 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+13:32:45.985 Watching directory: /Users/subhasc/tmp/foo/specs
+13:32:45.985 Found 1 files
+13:32:45.986 Initializing concepts cache with 0 concepts
+13:32:45.988 Initializing specs cache with 1 specs
+13:32:45.988 Adding specs from /Users/subhasc/tmp/foo/specs/example.spec
+13:32:45.988 Initializing steps cache with 1 steps
+13:32:45.988 Gauge daemon initialized and listening on port: 49287
+13:49:41.698 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+13:49:41.701 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+13:49:42.123 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+13:49:42.123 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+13:49:42.124 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+13:49:42.124 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
