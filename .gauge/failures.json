@@ -1,9 +1,0 @@
-{
-	"Args": [
-		"run",
-		"--env",
-		"firefox",
-		"--dir=/Users/subhasc/tmp/foo"
-	],
-	"FailedItems": []
-}
