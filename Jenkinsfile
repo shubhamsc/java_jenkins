@@ -1,9 +1,9 @@
 pipeline {
-    agent { docker { image 'maven:3.3.3' } }
+    agent any
     stages {
         stage('build') {
             steps {
-                sh 'mvn clean test-compile gauge:execute -DspecsDir=specs -Denv=firefox'
+                sh 'mvn test-compile gauge:execute -DspecsDir=specs -Denv=firefox'
             }
         }
     }
