@@ -15,6 +15,7 @@ public class StepImplementation {
         getStartedButton.click();
 
         Gauge.writeMessage("Page title is %s", Driver.webDriver.getTitle());
+        Gauge.captureScreenshot();
     }
 
     @Step("Ensure installation instructions are available")
@@ -28,5 +29,10 @@ public class StepImplementation {
         String app_url = System.getenv("APP_URL");
         Driver.webDriver.get(app_url + "/");
         assertThat(Driver.webDriver.getTitle()).contains("Gauge");
+    }
+
+    @Step("failed step")
+    public void implementation2() {
+        assertThat(Driver.webDriver.getTitle()).contains("Gauge and Taiko");
     }
 }

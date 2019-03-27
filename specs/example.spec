@@ -10,3 +10,4 @@ Get Started
 -----------
 * Go to Gauge Get Started Page
 * Ensure installation instructions are available
+* failed step
